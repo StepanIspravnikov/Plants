@@ -243,6 +243,11 @@ html{
     background-color: #FFFFFF;
 }
 
+.contacts{
+    height: 550px;
+    background-color: #EDF2EC;
+}
+
 .about__section{
     max-width: 1220px;
     height: 479px;
@@ -288,9 +293,4 @@ html{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-}
-
-.contacts{
-    height: 1300px;
-    background-color: #EDF2EC;
 }
