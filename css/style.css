@@ -164,7 +164,7 @@ html{
 
 .welcome__section{
     max-width: 1220px;
-    height: 407x;
+    height: 407px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -236,4 +236,61 @@ html{
     font-size: 16px;
     line-height: 20px;
     color: #000000;
+}
+
+.prices{
+    height: 666px;
+    background-color: #FFFFFF;
+}
+
+.about__section{
+    max-width: 1220px;
+    height: 479px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.services__content{
+    max-width: 1222px;
+    height: 94px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.services{
+    max-width: 1220px;
+    height: 955px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.about__us__section{
+    width: 605px;
+    height: 350px;
+    margin-left: 109px;
+    margin-top: 161px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.houseplant__1__png{
+    width: 464px;
+    height: 479px;
+    margin-right: 0px;
+    margin-top: 93px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.contacts{
+    height: 1300px;
+    background-color: #EDF2EC;
 }
