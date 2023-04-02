@@ -307,3 +307,58 @@ orange{
     background: #EDF2EC
 }
 
+.service__content{
+    max-width: 1007px;
+    height: 94px;
+    margin: 0 auto;
+    margin-left: 109px;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.service__and__our{
+    width: 306px;
+    height: 94px;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    color: #499A18;
+}
+
+.services__btns{
+    width: 559px;
+    height: 50px;
+    margin-right: 0px;
+    margin-top: 42px;
+}
+
+.services__btns__list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btn{
+    width: 161px;
+    height: 50px;
+    margin-right: 38px;
+}
+
+.btn__item__last{
+    margin-right: 0px;
+}
+
+.btn__item{
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #E06733;
+    text-decoration: none;
+}
+
+
